@@ -1,1 +1,1 @@
-1.Last_digit
+1-last_digit.
