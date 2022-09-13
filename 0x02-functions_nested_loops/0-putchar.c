@@ -1,17 +1,17 @@
 #include "main.h"
+
 /**
- * main - prints _putchar, fllowd by a new linees
+ * main - prints _putchar, followed by a new line
  * Return: Alwys 0 (Success)
  */
 int main(void)
 {
-	char Guy[] = "_putchar";
+	char Guy[8] = "_putchar";
+	int i;
 
-	int c;
-
-	for (c = 0; c < 8; c++)
+	for (i = 0; c < 8; i++)
 	{
-		_putchar(Guy[c]);
+		_putchar(Guy[i]);
 	}
 	_putchar('\n');
 	return (0);
