@@ -1,1 +1,1 @@
-libmy.a
+libmy
